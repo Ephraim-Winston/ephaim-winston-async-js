@@ -1,5 +1,5 @@
 function fetchData() {
-    // Replace the URL with the actual API endpoint
+  
     const apiUrl = "https://dummy.restapiexample.com/api/v1/employees";
   
     return fetch(apiUrl)
